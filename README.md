@@ -41,8 +41,8 @@ This thesis addresses how to enhance ultrasound images in real time on portable 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sahith0610/ultrasound-enhancement-thesis.git
-   cd ultrasound-enhancement-thesis
+   git clone https://github.com/sahith0610/ultrasound_image_enhancement.git
+   cd ultrasound_image_enhancement
    ```
 2. Create a Python environment (recommended `conda`):
 
