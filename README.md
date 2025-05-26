@@ -86,4 +86,3 @@ python source/evaluate.py \
 ---
 
 *Developed by Sahith Arya Charan Patchigalla, Indian Institute of Space Science and Technology (IIST)*
-"# ultrasound_image_enhancement" 
